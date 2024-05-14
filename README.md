@@ -1,1 +1,1 @@
-mamadou-meteo.surge.sh
+https://mamadou-meteo.surge.sh
